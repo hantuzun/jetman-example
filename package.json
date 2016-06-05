@@ -1,0 +1,16 @@
+{
+  "name": "jetman-example",
+  "description": "Example Jetman Test Project",
+  "version": "0.0.1",
+  "readme": "README.md",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "jetman": "0.2.7"
+  },
+  "engines": {
+    "node": "6.2.0"
+  },
+  "license": "MIT"
+}
